@@ -36,3 +36,6 @@ buttom*2 其他選項(重新跑出10種不同的圖) 確認
 確認地址(default = 送禮者輸入內容)
 text輸入槽*4 收禮者名稱 收禮者信箱 收禮者聯絡方式 收禮者住址
 buttom*1 確認送出
+
+## Logo
++ https://looka.com/editor/77976181
